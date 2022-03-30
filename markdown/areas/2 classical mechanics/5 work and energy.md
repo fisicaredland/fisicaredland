@@ -33,7 +33,7 @@ v &= \sqrt{2gh}
 $$
 This example demonstrates a simple case of energy transfer, as the gravitational potential energy is converted into kinetic energy, but it also demonstrates a simple case of *work* being done. Work is defined as the transfer of energy; Therefore, in this example, work has been done by gravity on the ball, transferring energy to it as it rolls down the hill.
 
-## Example of Work
+## Work Formula
 
 There is another formula for work:
 $$
@@ -45,16 +45,16 @@ W &= |F|*|s|*\cos\theta&\text{(2 Dimensions)}
 $$
 Where $F$ is force, and $s$ is displacement. In 2 dimensions, it is the dot product of the force vector and the displacement vector.
 
-So let's show this in action. Imagine pushing a ball along a flat surface.
+Let's show how this formula was first found. Imagine pushing a ball along a flat surface. The ball begins at rest with no energy, and pushing it will accelerate it and give it kinetic energy.
 
 [img]
 
-Let's start by calculating the change in energy. To do this, we will:
+We need to calculate the change in energy, which is the same as work. To do this, we will:
 
-1. Calculate the time that it takes to go a distance $s$.
+1. Calculate the time that it takes to move a distance $s$.
 2. Use this time to get the final velocity of the ball, based on its acceleration.
 3. Replace the previous acceleration with the one from $F=ma$.
-4. Use its final velocity to get its kinetic energy.
+4. Use the final velocity to get the kinetic energy.
 
 $$
 \begin{align}
